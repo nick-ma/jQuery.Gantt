@@ -1,6 +1,8 @@
 [Demo and Documentation](http://taitems.github.com/jQuery.Gantt/)
 ==============
 
+计划加入年度和季度的缩放颗粒度。
+
 jQuery Gantt Chart is a simple chart that implements gantt functionality as 
 a jQuery component.
 
